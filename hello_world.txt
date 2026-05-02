@@ -1,1 +1,2 @@
 hello hi first time using git 
+i am trying to make a change to underastand how the commit works
